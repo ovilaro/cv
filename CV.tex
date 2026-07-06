@@ -1,0 +1,171 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\documentclass[
+  11pt,
+  a4paper]{article}
+\usepackage{xcolor}
+\usepackage[margin=1.6cm]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\input{header.tex}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+% fallback for those not using the hyperref driver hyperxmp:
+\makeatletter
+\@ifundefined{xmpquote}{\newcommand{\xmpquote}[1]{#1}}{}
+\makeatother
+\hypersetup{
+  colorlinks=true,
+  linkcolor={accent},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={accent},
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\begin{center}
+{\Huge\bfseries\color{accent} Oriol Vilaró Roca\par}
+\vspace{2pt}
+{\large Desenvolupador de videojocs i d'aplicacions mòbils\par}
+\vspace{6pt}
+{\small
+\faIcon{phone}\ +34 625 91 82 79 \quad
+\faIcon{envelope}\ \href{mailto:ovilaro@fastmail.com}{ovilaro@fastmail.com}\par
+\faIcon{map-marker}\ Raval Josep Pané, 16 · 25211 Tarroja de Segarra, Lleida, Espanya\par}
+\end{center}
+\vspace{8pt}
+
+\subsection{Perfil}\label{perfil}
+
+Desenvolupador de videojocs i d'aplicacions mòbils; autodidacte,
+m'agrada aprendre nous llenguatges i tecnologies. Tinc experiència
+desenvolupant en solitari i en equip, emprant eines per a gestionar les
+tasques del projecte, la documentació i el codi font.
+
+\subsection{Experiència}\label{experiuxe8ncia}
+
+\textbf{Desenvolupador de videojocs · DABADU GAMES} --- 2017--2024
+
+\begin{itemize}
+\tightlist
+\item
+  Desenvolupament en Unity3D de tres videojocs per a iOS i Android,
+  destacats en App Store i Google Play en múltiples ocasions.
+\item
+  Desenvolupador líder d'un videojoc amb la llicència d'una popular
+  franquícia japonesa, publicat per Netflix en iOS i Android i portat a
+  Nintendo Switch.
+\item
+  Desenvolupament en Godot del prototip d'un projecte més ambiciós, amb
+  màquines d'estat i generació de nivells procedurals.
+\end{itemize}
+
+\textbf{Cap d'equip i desenvolupador d'aplicacions mòbils · MODDITY} ---
+2014--2017
+
+\begin{itemize}
+\tightlist
+\item
+  Gestió del desenvolupament d'aplicacions per a dispositius iOS i
+  Android, dirigint equips de programadors.
+\item
+  Especialització en desenvolupament per a iOS.
+\end{itemize}
+
+\textbf{Programador d'aplicacions mòbils · BAZINGA SYSTEMS} ---
+2011--2014
+
+\begin{itemize}
+\tightlist
+\item
+  Programació d'aplicacions iOS per a iPhone i iPad.
+\end{itemize}
+
+\textbf{Programador d'aplicacions de BBDD · BONÀREA} --- 2005--2010
+
+\begin{itemize}
+\tightlist
+\item
+  Programació i gestió del control d'un magatzem de productes
+  alimentaris: gestió d'estoc, preparació de comandes, entrades i
+  sortides, i gestió horària del personal.
+\end{itemize}
+
+\subsection{Educació}\label{educaciuxf3}
+
+\textbf{CFGS Desenvolupament d'Aplicacions Informàtiques · La Salle
+Gràcia, Barcelona} --- 2002--2004
+
+\textbf{Programació en C++ · CIPSA} --- 2001--2002
+
+\subsection{Certificacions}\label{certificacions}
+
+\textbf{Desenvolupament d'aplicacions mòbils per a iOS i Android amb
+Flutter} --- CIFO L'Hospitalet (SOC) · 2025 240 h · Apte (Notable) ·
+Codi: IFCD0002-1
+
+\subsection{Aptituds}\label{aptituds}
+
+\begin{itemize}
+\tightlist
+\item
+  Autodidacte
+\item
+  Treball en equip
+\item
+  Agile development
+\end{itemize}
+
+\subsection{Idiomes}\label{idiomes}
+
+\begin{itemize}
+\tightlist
+\item
+  Català · nivell alt
+\item
+  Espanyol · nivell alt
+\item
+  Anglès · nivell professional bàsic
+\end{itemize}
+
+\end{document}
