@@ -14,7 +14,7 @@ header-includes: \input{header.tex}
 \begin{center}
 {\Huge\bfseries\color{accent} Oriol Vilaró Roca\par}
 \vspace{2pt}
-{\large Desenvolupador de videojocs i d'aplicacions mòbils\par}
+{\large Desenvolupador d'aplicacions mòbils multiplataforma\par}
 \vspace{6pt}
 {\small
 \faIcon{phone}\ +34 625 91 82 79 \quad
@@ -25,7 +25,12 @@ header-includes: \input{header.tex}
 
 ## Perfil
 
-Desenvolupador de videojocs i d'aplicacions mòbils; autodidacte, m'agrada aprendre nous llenguatges i tecnologies. Tinc experiència desenvolupant en solitari i en equip, emprant eines per a gestionar les tasques del projecte, la documentació i el codi font.
+Amb experiència en aplicacions mòbils i videojocs; autodidacte, m'agrada aprendre nous llenguatges i tecnologies. He treballat tant en solitari com en equip, emprant eines per a gestionar les tasques del projecte, la documentació i el codi font.
+
+## Certificacions
+
+**Desenvolupament d'aplicacions mòbils per a iOS i Android amb Flutter** — CIFO L'Hospitalet (SOC) · 2025
+240 h · Apte (Notable) · Codi: IFCD0002-1
 
 ## Experiència
 
@@ -53,11 +58,6 @@ Desenvolupador de videojocs i d'aplicacions mòbils; autodidacte, m'agrada apren
 **CFGS Desenvolupament d'Aplicacions Informàtiques · La Salle Gràcia, Barcelona** — 2002–2004
 
 **Programació en C++ · CIPSA** — 2001–2002
-
-## Certificacions
-
-**Desenvolupament d'aplicacions mòbils per a iOS i Android amb Flutter** — CIFO L'Hospitalet (SOC) · 2025
-240 h · Apte (Notable) · Codi: IFCD0002-1
 
 ## Aptituds
 
