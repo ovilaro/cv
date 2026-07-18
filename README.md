@@ -12,6 +12,13 @@ Markdown-based CV, exported to PDF via pandoc + XeLaTeX.
 - `build.sh` — rebuild script: `./build.sh` → all four PDFs
 - `docs/` — reference documents (previous CVs, certificates)
 
+## PDFs
+
+- [CV_ca.pdf](./CV_ca.pdf) — Catalan
+- [CV_es.pdf](./CV_es.pdf) — Spanish
+- [CV_en.pdf](./CV_en.pdf) — English (general)
+- [CV_games_en.pdf](./CV_games_en.pdf) — English (game-focused)
+
 ## Build
 
 ```sh
