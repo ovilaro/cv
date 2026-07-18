@@ -30,4 +30,4 @@ Guidelines for working on this CV project.
 - `header.tex` — LaTeX styling (accent color, section rules, icons)
 - `build.sh` — rebuild script: `./build.sh` → all four PDFs
 - `README.md` — project overview and installed software
-- `docs/` — reference documents (previous CVs, certificates)
+- `source_docs/` — reference documents (previous CVs, certificates)

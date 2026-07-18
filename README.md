@@ -2,6 +2,13 @@
 
 Markdown-based CV, exported to PDF via pandoc + XeLaTeX.
 
+## PDFs
+
+- [CV_ca.pdf](./exported_pdf/CV_ca.pdf) — Catalan
+- [CV_es.pdf](./exported_pdf/CV_es.pdf) — Spanish
+- [CV_en.pdf](./exported_pdf/CV_en.pdf) — English (general)
+- [CV_games_en.pdf](./exported_pdf/CV_games_en.pdf) — English (game-focused)
+
 ## Files
 
 - `CV_ca.md` — Catalan CV (source of truth)
@@ -10,14 +17,7 @@ Markdown-based CV, exported to PDF via pandoc + XeLaTeX.
 - `CV_games_en.md` — English CV focused on game development
 - `header.tex` — LaTeX styling (accent color, section rules, icons)
 - `build.sh` — rebuild script: `./build.sh` → all four PDFs
-- `docs/` — reference documents (previous CVs, certificates)
-
-## PDFs
-
-- [CV_ca.pdf](./CV_ca.pdf) — Catalan
-- [CV_es.pdf](./CV_es.pdf) — Spanish
-- [CV_en.pdf](./CV_en.pdf) — English (general)
-- [CV_games_en.pdf](./CV_games_en.pdf) — English (game-focused)
+- `source_docs/` — reference documents (previous CVs, certificates)
 
 ## Build
 
@@ -25,7 +25,7 @@ Markdown-based CV, exported to PDF via pandoc + XeLaTeX.
 ./build.sh
 ```
 
-Produces `CV_ca.pdf`, `CV_es.pdf`, `CV_en.pdf`, and `CV_games_en.pdf`.
+Produces `exported_pdf/CV_ca.pdf`, `exported_pdf/CV_es.pdf`, `exported_pdf/CV_en.pdf`, and `exported_pdf/CV_games_en.pdf`.
 Requires pandoc, XeLaTeX, and the LaTeX packages listed below.
 
 ## Installed software
