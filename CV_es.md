@@ -25,7 +25,7 @@ header-includes: \input{header.tex}
 
 ## Perfil
 
-Con experiencia en aplicaciones móviles y videojuegos; autodidacta, me gusta aprender nuevos lenguajes y tecnologías. He trabajado tanto en solitario como en equipo, usando herramientas para gestionar las tareas del proyecto, la documentación y el código fuente.
+Desarrollador con experiencia en aplicaciones móviles y videojuegos; autodidacta, me gusta aprender nuevos lenguajes y tecnologías. He trabajado tanto en solitario como en equipo, usando herramientas de gestión de proyectos (control de versiones, gestores de tareas, documentación compartida) para coordinar el código fuente y la documentación.
 
 ## Certificaciones
 

@@ -25,7 +25,7 @@ header-includes: \input{header.tex}
 
 ## Profile
 
-Shipped console and mobile titles in Unity3D, and prototyped an ambitious project in Godot; self-taught, I enjoy learning new languages and technologies. I have worked both solo and in teams, using tools to manage project tasks, documentation, and source code.
+Shipped console and mobile titles in Unity3D, and prototyped an ambitious project in Godot; self-taught, I enjoy learning new languages and technologies. I have worked both solo and in teams, using project management tools (version control, task trackers, shared documentation) to coordinate source code and documentation.
 
 ## Experience
 

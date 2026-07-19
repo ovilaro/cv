@@ -25,7 +25,7 @@ header-includes: \input{header.tex}
 
 ## Perfil
 
-Amb experiència en aplicacions mòbils i videojocs; autodidacte, m'agrada aprendre nous llenguatges i tecnologies. He treballat tant en solitari com en equip, emprant eines per a gestionar les tasques del projecte, la documentació i el codi font.
+Desenvolupador amb experiència en aplicacions mòbils i videojocs; autodidacte, m'agrada aprendre nous llenguatges i tecnologies. He treballat tant en solitari com en equip, emprant eines de gestió de projectes (control de versions, gestors de tasques, documentació compartida) per coordinar el codi font i la documentació.
 
 ## Certificacions
 
@@ -51,7 +51,7 @@ Amb experiència en aplicacions mòbils i videojocs; autodidacte, m'agrada apren
 
 **Programador d'aplicacions de BBDD · BONÀREA** — 2005–2010
 
-- Programació i gestió del control d'un magatzem de productes alimentaris: gestió d'estoc, preparació de comandes, entrades i sortides, i gestió horària del personal.
+- Programació i gestió d'un magatzem d'alimentació: estoc, comandes, entrades/sortides i horari del personal.
 
 ## Educació
 

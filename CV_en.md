@@ -25,7 +25,7 @@ header-includes: \input{header.tex}
 
 ## Profile
 
-Experienced in building mobile apps and videogames; self-taught, I enjoy learning new languages and technologies. I have worked both solo and in teams, using tools to manage project tasks, documentation, and source code.
+Software engineer with experience in mobile apps and videogames; self-taught, I enjoy learning new languages and technologies. I have worked both solo and in teams, using project management tools (version control, task trackers, shared documentation) to coordinate source code and documentation.
 
 ## Certifications
 
