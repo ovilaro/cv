@@ -27,6 +27,8 @@ header-includes: \input{header.tex}
 
 Shipped console and mobile titles in Unity3D, and prototyped an ambitious project in Godot; self-taught, I enjoy learning new languages and technologies. I have worked both solo and in teams, using project management tools (version control, task trackers, shared documentation) to coordinate source code and documentation.
 
+I also research and experiment with AI-assisted coding tools (Codex, Claude Code, and OpenCode), using them to improve [Mosaic](https://github.com/ovilaro/mosaic), a Flutter course project, create [atda](https://github.com/ovilaro/atda), a task app made with Flutter, etc.
+
 ## Experience
 
 **Game Developer · DABADU GAMES** — 2017–2024

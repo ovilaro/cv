@@ -37,7 +37,7 @@ Installed via Homebrew during setup:
 | pandoc | 3.10 | Markdown → PDF/LaTeX converter |
 | gmp | 6.3.0 | Dependency of pandoc |
 | basictex | 2026.0301 | Minimal LaTeX distribution (xelatex, pdflatex, tlmgr) |
-| poppler | 26.07.0 | `pdftotext` for extracting text from PDFs |
+| poppler | 26.07.0 | `pdftotext` for extracting text from PDFs, useful for models without PDF capabilities |
 
 LaTeX packages installed via `tlmgr` (inside basictex):
 

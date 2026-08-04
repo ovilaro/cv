@@ -27,6 +27,8 @@ header-includes: \input{header.tex}
 
 Desenvolupador amb experiència en aplicacions mòbils i videojocs; autodidacte, m'agrada aprendre nous llenguatges i tecnologies. He treballat tant en solitari com en equip, emprant eines de gestió de projectes (control de versions, gestors de tasques, documentació compartida) per coordinar el codi font i la documentació.
 
+També investigo i experimento amb eines d'assistència per a la programació (Codex, Claude Code i OpenCode), utilitzant-les per millorar [Mosaic](https://github.com/ovilaro/mosaic), projecte del curs de Flutter, crear [atda](https://github.com/ovilaro/atda), una aplicació de tasques feta en Flutter, etc.
+
 ## Certificacions
 
 **Desenvolupament d'aplicacions mòbils per a iOS i Android amb Flutter** — CIFO L'Hospitalet (SOC) · 2025

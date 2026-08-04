@@ -3,17 +3,25 @@
 set -euo pipefail
 dir="$(cd "$(dirname "$0")" && pwd)"
 cd "$dir"
-eval "$(/usr/libexec/path_helper)"
+
+for command_name in pandoc xelatex; do
+  if ! command -v "$command_name" >/dev/null 2>&1; then
+    printf 'Error: %s is required to build the CVs.\n' "$command_name" >&2
+    exit 1
+  fi
+done
 
 mkdir -p exported_pdf
 
-pandoc CV_ca.md        -o exported_pdf/CV_ca.pdf        --pdf-engine=xelatex
-pandoc CV_es.md        -o exported_pdf/CV_es.pdf        --pdf-engine=xelatex
-pandoc CV_en.md        -o exported_pdf/CV_en.pdf        --pdf-engine=xelatex
-pandoc CV_games_en.md  -o exported_pdf/CV_games_en.pdf  --pdf-engine=xelatex
+sources=(CV_ca.md CV_es.md CV_en.md CV_games_en.md)
 
-echo "Built:
-  $dir/exported_pdf/CV_ca.pdf
-  $dir/exported_pdf/CV_es.pdf
-  $dir/exported_pdf/CV_en.pdf
-  $dir/exported_pdf/CV_games_en.pdf"
+for source in "${sources[@]}"; do
+  pandoc "$source" \
+    -o "exported_pdf/${source%.md}.pdf" \
+    --pdf-engine=xelatex
+done
+
+printf 'Built:\n'
+for source in "${sources[@]}"; do
+  printf '  %s/exported_pdf/%s.pdf\n' "$dir" "${source%.md}"
+done
