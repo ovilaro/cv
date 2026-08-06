@@ -25,9 +25,9 @@ header-includes: \input{header.tex}
 
 ## Profile
 
-Software engineer with experience in mobile apps and videogames; self-taught, I enjoy learning new languages and technologies. I have worked both solo and in teams, using project management tools (version control, task trackers, shared documentation) to coordinate source code and documentation.
+Software engineer with experience in mobile apps and videogames; self-taught, with a strong interest in learning new languages and technologies. Experience working both independently and in teams, using project management tools (version control, task trackers, shared documentation) to coordinate source code and documentation.
 
-I also research and experiment with AI-assisted coding tools (Codex, Claude Code, and OpenCode), using them to improve [Mosaic](https://github.com/ovilaro/mosaic), a Flutter course project, create [atda](https://github.com/ovilaro/atda), a task app made with Flutter, etc.
+Research into AI-assisted coding tools (Codex, Claude Code, OpenCode, Plannotator, etc.), applied to improving [Mosaic](https://github.com/ovilaro/mosaic), a Flutter course project, and creating [atda](https://github.com/ovilaro/atda), a task app made with Flutter.
 
 ## Certifications
 
@@ -38,8 +38,8 @@ I also research and experiment with AI-assisted coding tools (Codex, Claude Code
 
 **Game Developer · DABADU GAMES** — 2017–2024
 
-- Unity3D development of three videogames for iOS and Android, featured on the App Store and Google Play on multiple occasions.
-- Lead developer of a videogame under license from a popular Japanese franchise, published by Netflix on iOS and Android and also ported to Nintendo Switch.
+- Developer of three games in Unity: It's Full of Sparks, Shell Shocked, and Giant Dancing Plushies, shipped on the App Store and Google Play and featured on multiple occasions.
+- Lead developer of Hello Kitty and Friends: Happiness Parade, developed in Unity and published by Netflix on iOS and Android; developed and shipped its expanded edition for Nintendo Switch.
 - Godot development of the prototype for a more ambitious project, including state machines and procedural level generation.
 
 **Team Lead & Mobile App Developer · MODDITY** — 2014–2017

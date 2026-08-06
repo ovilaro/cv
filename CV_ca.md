@@ -25,9 +25,9 @@ header-includes: \input{header.tex}
 
 ## Perfil
 
-Desenvolupador amb experiència en aplicacions mòbils i videojocs; autodidacte, m'agrada aprendre nous llenguatges i tecnologies. He treballat tant en solitari com en equip, emprant eines de gestió de projectes (control de versions, gestors de tasques, documentació compartida) per coordinar el codi font i la documentació.
+Desenvolupador amb experiència en aplicacions mòbils i videojocs; autodidacte, amb un fort interès per aprendre nous llenguatges i tecnologies. Experiència treballant tant en solitari com en equip, emprant eines de gestió de projectes (control de versions, gestors de tasques, documentació compartida) per coordinar el codi font i la documentació.
 
-També investigo i experimento amb eines d'assistència per a la programació (Codex, Claude Code i OpenCode), utilitzant-les per millorar [Mosaic](https://github.com/ovilaro/mosaic), projecte del curs de Flutter, crear [atda](https://github.com/ovilaro/atda), una aplicació de tasques feta en Flutter, etc.
+Recerca d'eines d'IA per al desenvolupament de programari (Codex, Claude Code, OpenCode, Plannotator, etc.), aplicada a la millora de [Mosaic](https://github.com/ovilaro/mosaic), projecte del curs de Flutter, i a la creació d'[atda](https://github.com/ovilaro/atda), una aplicació de tasques feta en Flutter.
 
 ## Certificacions
 
@@ -38,8 +38,8 @@ També investigo i experimento amb eines d'assistència per a la programació (C
 
 **Desenvolupador de videojocs · DABADU GAMES** — 2017–2024
 
-- Desenvolupament en Unity3D de tres videojocs per a iOS i Android, destacats en App Store i Google Play en múltiples ocasions.
-- Desenvolupador líder d'un videojoc amb la llicència d'una popular franquícia japonesa, publicat per Netflix en iOS i Android i portat a Nintendo Switch.
+- Desenvolupador de tres videojocs en Unity: It's Full of Sparks, Shell Shocked i Giant Dancing Plushies, llançats a l'App Store i Google Play per a iOS i Android i destacats en múltiples ocasions.
+- Desenvolupador líder de Hello Kitty and Friends: Happiness Parade, desenvolupat en Unity i publicat per Netflix en iOS i Android; desenvolupament i llançament de la seva edició ampliada per a Nintendo Switch.
 - Desenvolupament en Godot del prototip d'un projecte més ambiciós, amb màquines d'estat i generació de nivells procedurals.
 
 **Cap d'equip i desenvolupador d'aplicacions mòbils · MODDITY** — 2014–2017

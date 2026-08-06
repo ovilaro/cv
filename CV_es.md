@@ -25,9 +25,9 @@ header-includes: \input{header.tex}
 
 ## Perfil
 
-Desarrollador con experiencia en aplicaciones móviles y videojuegos; autodidacta, me gusta aprender nuevos lenguajes y tecnologías. He trabajado tanto en solitario como en equipo, usando herramientas de gestión de proyectos (control de versiones, gestores de tareas, documentación compartida) para coordinar el código fuente y la documentación.
+Desarrollador con experiencia en aplicaciones móviles y videojuegos; autodidacta, con gran interés por aprender nuevos lenguajes y tecnologías. Experiencia trabajando tanto en solitario como en equipo, usando herramientas de gestión de proyectos (control de versiones, gestores de tareas, documentación compartida) para coordinar el código fuente y la documentación.
 
-También investigo y experimento con herramientas de asistencia para la programación (Codex, Claude Code y OpenCode), utilizándolas para mejorar [Mosaic](https://github.com/ovilaro/mosaic), proyecto del curso de Flutter, crear [atda](https://github.com/ovilaro/atda), una aplicación de tareas hecha con Flutter, etc.
+Investigación de herramientas de IA para el desarrollo de software (Codex, Claude Code, OpenCode, Plannotator, etc.), aplicada a la mejora de [Mosaic](https://github.com/ovilaro/mosaic), proyecto del curso de Flutter, y a la creación de [atda](https://github.com/ovilaro/atda), una aplicación de tareas hecha con Flutter.
 
 ## Certificaciones
 
@@ -38,8 +38,8 @@ También investigo y experimento con herramientas de asistencia para la programa
 
 **Desarrollador de videojuegos · DABADU GAMES** — 2017–2024
 
-- Desarrollo en Unity3D de tres videojuegos para iOS y Android, destacados en App Store y Google Play en múltiples ocasiones.
-- Desarrollador líder de un videojuego con la licencia de una popular franquicia japonesa, publicado por Netflix en iOS y Android y portado a Nintendo Switch.
+- Desarrollador de tres videojuegos en Unity: It's Full of Sparks, Shell Shocked y Giant Dancing Plushies, publicados en App Store y Google Play para iOS y Android y destacados en múltiples ocasiones.
+- Desarrollador líder de Hello Kitty and Friends: Happiness Parade, desarrollado en Unity y publicado por Netflix en iOS y Android; desarrollo y lanzamiento de su edición ampliada para Nintendo Switch.
 - Desarrollo en Godot del prototipo de un proyecto más ambicioso, con máquinas de estado y generación de niveles procedurales.
 
 **Jefe de equipo y desarrollador de aplicaciones móviles · MODDITY** — 2014–2017
