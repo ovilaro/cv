@@ -19,7 +19,9 @@ Guidelines for working on this CV project.
 
 ## Workflow rules
 
-- Only open PDFs that were changed by the current edit. Do not re-open unchanged PDFs after a build.
+- After any change that affects the output (`CV_*.md`, `header.tex`, `build.sh`), run `./build.sh`.
+- Then OPEN ALL FOUR PDFs on the user's desktop with `open exported_pdf/CV_ca.pdf exported_pdf/CV_es.pdf exported_pdf/CV_en.pdf exported_pdf/CV_games_en.pdf` so the user reviews them personally. Do not consider the task finished until they are opened.
+- Before opening them, run a quick automated sanity check (`pdfinfo` page count must be 1 page per CV; spot-check content with `pdftotext`) so obvious breakage is caught without wasting the user's review.
 
 ## Files
 

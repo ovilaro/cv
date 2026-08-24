@@ -61,14 +61,18 @@ Recerca d'eines d'IA per al desenvolupament de programari (Codex, Claude Code, O
 
 **Programació en C++ · CIPSA** — 2001–2002
 
-## Aptituds
-
-- Autodidacte
-- Treball en equip
-- Agile development
-
-## Idiomes
-
-- Català · nivell alt
-- Espanyol · nivell alt
-- Anglès · nivell professional bàsic
+\begin{multicols}{2}
+\section*{Aptituds}
+\begin{itemize}
+\item Autodidacte
+\item Treball en equip
+\item Agile development
+\end{itemize}
+\columnbreak
+\section*{Idiomes}
+\begin{itemize}
+\item Català · nivell alt
+\item Espanyol · nivell alt
+\item Anglès · nivell professional bàsic
+\end{itemize}
+\end{multicols}

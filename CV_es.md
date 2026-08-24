@@ -61,14 +61,18 @@ Investigación de herramientas de IA para el desarrollo de software (Codex, Clau
 
 **Programación en C++ · CIPSA** — 2001–2002
 
-## Aptitudes
-
-- Autodidacta
-- Trabajo en equipo
-- Agile development
-
-## Idiomas
-
-- Catalán · nivel alto
-- Español · nivel alto
-- Inglés · nivel profesional básico
+\begin{multicols}{2}
+\section*{Aptitudes}
+\begin{itemize}
+\item Autodidacta
+\item Trabajo en equipo
+\item Agile development
+\end{itemize}
+\columnbreak
+\section*{Idiomas}
+\begin{itemize}
+\item Catalán · nivel alto
+\item Español · nivel alto
+\item Inglés · nivel profesional básico
+\end{itemize}
+\end{multicols}

@@ -54,14 +54,18 @@ Research into AI-assisted coding tools (Codex, Claude Code, OpenCode, Plannotato
 
 **C++ Programming · CIPSA** — 2001–2002
 
-## Skills
-
-- Self-taught
-- Teamwork
-- Agile development
-
-## Languages
-
-- Catalan · high level
-- Spanish · high level
-- English · basic professional level
+\begin{multicols}{2}
+\section*{Skills}
+\begin{itemize}
+\item Self-taught
+\item Teamwork
+\item Agile development
+\end{itemize}
+\columnbreak
+\section*{Languages}
+\begin{itemize}
+\item Catalan · high level
+\item Spanish · high level
+\item English · basic professional level
+\end{itemize}
+\end{multicols}
