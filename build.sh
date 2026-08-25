@@ -13,7 +13,7 @@ done
 
 mkdir -p exported_pdf
 
-sources=(CV_ca.md CV_es.md CV_en.md CV_games_en.md)
+sources=(CV_ca.md CV_es.md CV_en.md)
 
 for source in "${sources[@]}"; do
   pandoc "$source" \
